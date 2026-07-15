@@ -1,4 +1,4 @@
-Sales Performance Dashboard
+<H2>Sales Performance Dashboard</H2>
 
 Tools Used :
 - Excel (Data Cleaning)
